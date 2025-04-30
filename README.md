@@ -15,7 +15,7 @@ conda create -n raggedi python=3.10.14
 conda activate raggedi
 pip install -r requirements.txt
 ```
-
+The original project is built on Ubuntu 20.04. There might be package dependency problem when installed on other platforms.
 
 * **Installation of Matlab Engine API for Python**
 
